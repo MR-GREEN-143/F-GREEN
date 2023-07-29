@@ -1,0 +1,2 @@
+import GRN
+GRN.tamimx()
