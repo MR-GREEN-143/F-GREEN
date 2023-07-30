@@ -1,2 +1,2 @@
-import GRN
-GRN.tamimx()
+import GRNX
+GRNX.tamimx()
